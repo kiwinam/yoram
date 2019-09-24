@@ -15,6 +15,7 @@
 		CBFB861C23390968008C8CAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBFB861A23390968008C8CAC /* LaunchScreen.storyboard */; };
 		CBFB862723390968008C8CAC /* yoramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBFB862623390968008C8CAC /* yoramTests.swift */; };
 		CBFB863223390968008C8CAC /* yoramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBFB863123390968008C8CAC /* yoramUITests.swift */; };
+		CBFB864023391788008C8CAC /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBFB863F23391788008C8CAC /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CBFB862D23390968008C8CAC /* yoramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yoramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBFB863123390968008C8CAC /* yoramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = yoramUITests.swift; sourceTree = "<group>"; };
 		CBFB863323390968008C8CAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CBFB863F23391788008C8CAC /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				CBFB861A23390968008C8CAC /* LaunchScreen.storyboard */,
 				CBFB861D23390968008C8CAC /* Info.plist */,
 				CBFB861723390968008C8CAC /* Preview Content */,
+				CBFB863F23391788008C8CAC /* Launch Screen.storyboard */,
 			);
 			path = yoram;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 			files = (
 				CBFB861C23390968008C8CAC /* LaunchScreen.storyboard in Resources */,
 				CBFB861923390968008C8CAC /* Preview Assets.xcassets in Resources */,
+				CBFB864023391788008C8CAC /* Launch Screen.storyboard in Resources */,
 				CBFB861623390968008C8CAC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
